@@ -1202,6 +1202,7 @@ Available for MacOS, Linux, & Windows<br>
 | [Chinese Color Atlas](https://chinesecoloratlas.com/resources/free)| Free Chinese traditional color tokens, CSS variables, Tailwind theme samples, Figma Variables samples, Procreate swatches, and AI prompt resources. |
 | [CloneAny Gallery](https://cloneany.com/gallery) | Free webpage design examples with downloadable DESIGN.md style guides and source/clone previews. No signup needed to browse or download the guides. |
 | [LogoMovo One-Page Brand Guide](https://logomovo.com/blog/small-business-brand-style-guide-template) | Free, copyable manual brand-guide template covering approved logo variants, colors, typography and vendor handoff. |
+| [Kvish](https://kvish.netlify.app/) | Free open-source graphic design tool featuring a live canvas and an extensive collection of shaders and post-processing effects. |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
